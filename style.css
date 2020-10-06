@@ -1,0 +1,21 @@
+h1{
+    color: lightblue;
+}
+h1 {
+    width: 105%;
+    text-align: center;
+}
+
+.center {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.center-list {
+    width: 20%;
+    list-style-type: inside;
+    text-align: left;
+    display: inline-block;
+}
+
